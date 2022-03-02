@@ -4,6 +4,10 @@
 
 * [Change Velocity Dashboard](https://accoprod.service-now.com/$pa_dashboard.do?sysparm_dashboard=dfd7ec1149d35010f877ebaecda567c0&sysparm_tab=37d7ec5149d35010f877ebaecda5676e&sysparm_cancelable=true&sysparm_editable=false&sysparm_active_panel=false)
 
+### Microsoft Excel
+
+* [Create a Map chart in Excel](https://support.microsoft.com/en-us/office/create-a-map-chart-in-excel-f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lrestifo/new-tab-page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
