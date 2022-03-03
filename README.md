@@ -3,6 +3,7 @@
 ### ServiceNow
 
 * [Change Velocity Dashboard](https://accoprod.service-now.com/$pa_dashboard.do?sysparm_dashboard=dfd7ec1149d35010f877ebaecda567c0&sysparm_tab=37d7ec5149d35010f877ebaecda5676e&sysparm_cancelable=true&sysparm_editable=false&sysparm_active_panel=false)
+* [Import MS-Word Document into Knowledge Base Article](https://docs.servicenow.com/bundle/rome-servicenow-platform/page/product/knowledge-management/task/import-word-platform.html)
 
 ### Microsoft Excel
 
