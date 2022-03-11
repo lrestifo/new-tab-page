@@ -16,3 +16,13 @@
 ### Microsoft Intune
 
 * [Easy Guide to Collect Logs with Intune MEM](https://www.prajwaldesai.com/collect-logs-with-intune/#:~:text=Select%20the%20Windows%2010%20Device,Windows%2010%2FWindows%2011%20device.)
+
+### Fonts
+
+* [Say Hello to Roboto Serif](https://material.io/blog/roboto-serif)
+
+### macOS
+
+* [Equinox: Create dynamic wallpapers for macOS](https://github.com/rlxone/Equinox)
+* [FileIcon: CLI to manage icons for files and folders](https://github.com/mklement0/fileicon)
+
