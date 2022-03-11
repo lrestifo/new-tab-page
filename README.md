@@ -13,3 +13,6 @@
 
 * [How To Share PowerPoint Slides](https://support.microsoft.com/en-us/office/share-powerpoint-slides-in-a-teams-meeting-fc5a5394-2159-419c-bc59-1f64c1f4e470)
 
+### Microsoft Intune
+
+* [Easy Guide to Collect Logs with Intune MEM](https://www.prajwaldesai.com/collect-logs-with-intune/#:~:text=Select%20the%20Windows%2010%20Device,Windows%2010%2FWindows%2011%20device.)
