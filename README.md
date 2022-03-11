@@ -17,6 +17,10 @@
 
 * [Easy Guide to Collect Logs with Intune MEM](https://www.prajwaldesai.com/collect-logs-with-intune/#:~:text=Select%20the%20Windows%2010%20Device,Windows%2010%2FWindows%2011%20device.)
 
+### Microsoft Outlook
+
+* [Get Organized with the Board View](https://support.microsoft.com/en-us/office/organize-things-your-way-with-the-calendar-board-view-611ef33f-7a13-4631-a597-b5657cc19085)
+
 ### Fonts
 
 * [Say Hello to Roboto Serif](https://material.io/blog/roboto-serif)
