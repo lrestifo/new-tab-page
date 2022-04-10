@@ -29,4 +29,5 @@
 
 * [Equinox: Create dynamic wallpapers for macOS](https://github.com/rlxone/Equinox)
 * [FileIcon: CLI to manage icons for files and folders](https://github.com/mklement0/fileicon)
+* [HOWTO: Open .p7m encoded mail attachments from the command line](https://andrea.brancatelli.it/tag/p7m/)
 
