@@ -4,6 +4,15 @@
 
 * [Change Velocity Dashboard](https://accoprod.service-now.com/$pa_dashboard.do?sysparm_dashboard=dfd7ec1149d35010f877ebaecda567c0&sysparm_tab=37d7ec5149d35010f877ebaecda5676e&sysparm_cancelable=true&sysparm_editable=false&sysparm_active_panel=false)
 * [Import MS-Word Document into Knowledge Base Article](https://docs.servicenow.com/bundle/rome-servicenow-platform/page/product/knowledge-management/task/import-word-platform.html)
+* [Widget library](https://docs.servicenow.com/bundle/sandiego-servicenow-platform/page/build/service-portal/concept/widget-showcase.html)
+
+#### ServiceNow Perl Integration
+
+* [ServiceNow::SOAP Journal](https://servicenowsoap.wordpress.com/category/perl/) &mdash; Blog article
+* [ServiceNow-Perl-API](https://github.com/koukakaijin/ServiceNow-Perl-API) &mdash; github repo
+* [Using ServiceNow PERL API to access cmdb_ci_outage table](https://community.servicenow.com/community?id=community_question&sys_id=790287e9db98dbc01dcaf3231f96197c) &mdash; community article
+* [SOAP web service official documentation](https://docs.servicenow.com/bundle/sandiego-application-development/page/integrate/inbound-rest/concept/c_RESTAPI.html) &mdash; official documentation
+* [ServiceNow::SOAP on MetaCPAN](https://metacpan.org/pod/ServiceNow::SOAP) &mdash; Perl module
 
 ### Microsoft Excel
 
@@ -30,4 +39,12 @@
 * [Equinox: Create dynamic wallpapers for macOS](https://github.com/rlxone/Equinox)
 * [FileIcon: CLI to manage icons for files and folders](https://github.com/mklement0/fileicon)
 * [HOWTO: Open .p7m encoded mail attachments from the command line](https://andrea.brancatelli.it/tag/p7m/)
+
+### Markdown
+
+* [MkDocs](https://www.mkdocs.org)
+* [MarkDOC](https://markdoc.io)
+* [User the Markdown web part in SharePoint](https://support.microsoft.com/en-us/office/use-the-markdown-web-part-6d73c06d-2877-4bc9-988b-f2896016c50b)
+* [Doctor - Maintain documentation on SharePoint](https://github.com/estruyf/doctor)
+
 
