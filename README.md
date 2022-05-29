@@ -39,6 +39,7 @@
 * [Equinox: Create dynamic wallpapers for macOS](https://github.com/rlxone/Equinox)
 * [FileIcon: CLI to manage icons for files and folders](https://github.com/mklement0/fileicon)
 * [HOWTO: Open .p7m encoded mail attachments from the command line](https://andrea.brancatelli.it/tag/p7m/)
+* [Switch audio device from the command line](https://github.com/deweller/switchaudio-osx)
 
 ### Markdown
 
@@ -46,5 +47,8 @@
 * [MarkDOC](https://markdoc.io)
 * [User the Markdown web part in SharePoint](https://support.microsoft.com/en-us/office/use-the-markdown-web-part-6d73c06d-2877-4bc9-988b-f2896016c50b)
 * [Doctor - Maintain documentation on SharePoint](https://github.com/estruyf/doctor)
+* [MERMAID](https://mermaid-js.github.io/mermaid/#/README)
+* [Docs Authoring Pack for VSCode](https://docs.microsoft.com/en-us/contribute/how-to-write-docs-auth-pack)
+* [Microsoft Docs Contributor Guide](https://docs.microsoft.com/en-us/contribute/)
 
 
