@@ -30,6 +30,11 @@
 
 * [Get Organized with the Board View](https://support.microsoft.com/en-us/office/organize-things-your-way-with-the-calendar-board-view-611ef33f-7a13-4631-a597-b5657cc19085)
 
+### Microsoft OneDrive
+
+* [OneDrive for macOS](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/microsoft-works-to-ensure-a-great-onedrive-experience-on-apple/ba-p/2400803)
+* [OneDrive Sync Admin Reports](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/announcing-public-preview-of-onedrive-sync-admin-reports/ba-p/2303407)
+
 ### Fonts
 
 * [Say Hello to Roboto Serif](https://material.io/blog/roboto-serif)
