@@ -6,6 +6,10 @@
 * [Import MS-Word Document into Knowledge Base Article](https://docs.servicenow.com/bundle/rome-servicenow-platform/page/product/knowledge-management/task/import-word-platform.html)
 * [Widget library](https://docs.servicenow.com/bundle/sandiego-servicenow-platform/page/build/service-portal/concept/widget-showcase.html)
 
+#### ServiceNow Development
+
+* [Update set use](https://docs.servicenow.com/bundle/rome-application-development/page/build/system-update-sets/concept/update-set-procedures.html)
+
 #### ServiceNow Perl Integration
 
 * [ServiceNow::SOAP Journal](https://servicenowsoap.wordpress.com/category/perl/) &mdash; Blog article
@@ -25,6 +29,7 @@
 ### Microsoft Intune
 
 * [Easy Guide to Collect Logs with Intune MEM](https://www.prajwaldesai.com/collect-logs-with-intune/#:~:text=Select%20the%20Windows%2010%20Device,Windows%2010%2FWindows%2011%20device.)
+* [Create low-code custom apps for Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/teams-low-code-solutions)
 
 ### Microsoft Outlook
 
