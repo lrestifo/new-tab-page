@@ -18,6 +18,10 @@
 * [SOAP web service official documentation](https://docs.servicenow.com/bundle/sandiego-application-development/page/integrate/inbound-rest/concept/c_RESTAPI.html) &mdash; official documentation
 * [ServiceNow::SOAP on MetaCPAN](https://metacpan.org/pod/ServiceNow::SOAP) &mdash; Perl module
 
+#### ServiceNow Saviynt Integration
+
+* [Saviynt for ServiceNow](https://saviynt.com/integrations/servicenow/)
+
 ### Microsoft Excel
 
 * [Create a Map chart in Excel](https://support.microsoft.com/en-us/office/create-a-map-chart-in-excel-f2cfed55-d622-42cd-8ec9-ec8a358b593b)
@@ -40,6 +44,11 @@
 * [OneDrive for macOS](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/microsoft-works-to-ensure-a-great-onedrive-experience-on-apple/ba-p/2400803)
 * [OneDrive Sync Admin Reports](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/announcing-public-preview-of-onedrive-sync-admin-reports/ba-p/2303407)
 
+### HP TechPulse
+
+* [HP TechPulse Portal](https://www.hpdaas.com/)
+* [HP TechPulse Media Center](https://hp.service-now.com/techpulse_kb?id=kb_article&sysparm_article=KB0012640)
+
 ### Fonts
 
 * [Say Hello to Roboto Serif](https://material.io/blog/roboto-serif)
@@ -61,4 +70,7 @@
 * [Docs Authoring Pack for VSCode](https://docs.microsoft.com/en-us/contribute/how-to-write-docs-auth-pack)
 * [Microsoft Docs Contributor Guide](https://docs.microsoft.com/en-us/contribute/)
 
+### Vodafone
+
+* [MeinVodafone Business Corporate VPN Portal](https://www.vodafone.de/business/services/cvpn/login)
 
