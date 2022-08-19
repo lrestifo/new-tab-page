@@ -24,24 +24,28 @@ This page acts essentially as a bookmark library.  As I stumble across web pages
 
 * [Saviynt for ServiceNow](https://saviynt.com/integrations/servicenow/)
 
-## Microsoft Excel
+## Microsoft
+
+### Microsoft Excel
 
 * [Create a Map chart in Excel](https://support.microsoft.com/en-us/office/create-a-map-chart-in-excel-f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-## Microsoft Teams
+### Microsoft Teams
 
 * [How To Share PowerPoint Slides](https://support.microsoft.com/en-us/office/share-powerpoint-slides-in-a-teams-meeting-fc5a5394-2159-419c-bc59-1f64c1f4e470)
 
-## Microsoft Intune
+### Microsoft Intune
 
 * [Easy Guide to Collect Logs with Intune MEM](https://www.prajwaldesai.com/collect-logs-with-intune/#:~:text=Select%20the%20Windows%2010%20Device,Windows%2010%2FWindows%2011%20device.)
 * [Create low-code custom apps for Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/teams-low-code-solutions)
 
-## Microsoft Outlook
+### Microsoft Outlook
 
 * [Get Organized with the Board View](https://support.microsoft.com/en-us/office/organize-things-your-way-with-the-calendar-board-view-611ef33f-7a13-4631-a597-b5657cc19085)
+* [Exchange Online service description](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description#feature-availability-across-exchange-online-standalone-plans)
+* [Enable or disable Outlook on the web for a mailbox in Exchange Online](https://docs.microsoft.com/en-us/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app)
 
-## Microsoft OneDrive
+### Microsoft OneDrive
 
 * [OneDrive for macOS](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/microsoft-works-to-ensure-a-great-onedrive-experience-on-apple/ba-p/2400803)
 * [OneDrive Sync Admin Reports](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/announcing-public-preview-of-onedrive-sync-admin-reports/ba-p/2303407)
@@ -75,3 +79,7 @@ This page acts essentially as a bookmark library.  As I stumble across web pages
 ## Vodafone
 
 * [MeinVodafone Business Corporate VPN Portal](https://www.vodafone.de/business/services/cvpn/login)
+
+## Dell
+
+* [Chromebook Enterprise Laptops](https://www.dell.com/de-de/shop/dell-notebooks/sf/latitude-chromebook-enterprise#models-module)
