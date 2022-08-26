@@ -2,6 +2,21 @@
 
 This page acts essentially as a bookmark library.  As I stumble across web pages that trigger my attention, I save them here for posterity.
 
+Topics covered:
+
+* ServiceNow
+* Microsoft
+* HP TechPulse
+* Fonts
+* macOS
+* Markdown
+* Vodafone
+* Dell
+* Performances
+* AppleScript
+* Design
+* Other / Various
+
 ## ServiceNow
 
 * [Change Velocity Dashboard](https://accoprod.service-now.com/$pa_dashboard.do?sysparm_dashboard=dfd7ec1149d35010f877ebaecda567c0&sysparm_tab=37d7ec5149d35010f877ebaecda5676e&sysparm_cancelable=true&sysparm_editable=false&sysparm_active_panel=false)
@@ -23,6 +38,11 @@ This page acts essentially as a bookmark library.  As I stumble across web pages
 ### ServiceNow Saviynt Integration
 
 * [Saviynt for ServiceNow](https://saviynt.com/integrations/servicenow/)
+
+### ServiceNow Hardware Asset Management
+
+* [ServiceNow Hardware Asset Management](https://docs.servicenow.com/bundle/sandiego-it-asset-management/page/product/hardware-asset-management/reference/ham-landing-page.html) &mdash; Official documentation
+* [Don't Confuse IT Asset Management and Configuration Management](https://www.provance.com/blog/dont-confuse-it-asset-management-and-configuration-management-ever/) &mdash; Blog article
 
 ## Microsoft
 
@@ -49,6 +69,7 @@ This page acts essentially as a bookmark library.  As I stumble across web pages
 
 * [OneDrive for macOS](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/microsoft-works-to-ensure-a-great-onedrive-experience-on-apple/ba-p/2400803)
 * [OneDrive Sync Admin Reports](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/announcing-public-preview-of-onedrive-sync-admin-reports/ba-p/2303407)
+* [Manage your OneDrive files with Finder on a Mac](https://www.umb.edu/it/admin_systems/onedrive/finder)
 
 ## HP TechPulse
 
@@ -68,6 +89,9 @@ This page acts essentially as a bookmark library.  As I stumble across web pages
 
 ## Markdown
 
+* [Markdown Guide](https://www.markdownguide.org/getting-started/)
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Awesome Markdown](https://github.com/mundimark/awesome-markdown)
 * [MkDocs](https://www.mkdocs.org)
 * [MarkDOC](https://markdoc.io)
 * [User the Markdown web part in SharePoint](https://support.microsoft.com/en-us/office/use-the-markdown-web-part-6d73c06d-2877-4bc9-988b-f2896016c50b)
@@ -83,3 +107,23 @@ This page acts essentially as a bookmark library.  As I stumble across web pages
 ## Dell
 
 * [Chromebook Enterprise Laptops](https://www.dell.com/de-de/shop/dell-notebooks/sf/latitude-chromebook-enterprise#models-module)
+
+## Performances
+
+* [Browser Test Speedometer 2.0](https://browserbench.org/Speedometer2.0/) &mdash; Test 25-Aug-2022: Google Chrome:*302*, Safari:**334**
+
+## AppleScript
+
+* [GetNameAndTitleOfActiveWindow.scpt](https://gist.github.com/timpulver/4753750)
+
+## Design
+
+* [Apple Icon Design Guide](https://developer.apple.com/design/human-interface-guidelines/foundations/app-icons/)
+* [Apple Design Resources](https://developer.apple.com/design/resources/)
+* [Sketch](https://www.sketch.com)
+* [Adobe XD](https://www.adobe.com/products/xd.html)
+
+## Other / Various
+
+* [NASA - The Sound of Black Holes](https://www.nasa.gov/mission_pages/chandra/news/new-nasa-black-hole-sonifications-with-a-remix.html)
+* [Desiderata](https://desiderata.com/desiderata.html)
