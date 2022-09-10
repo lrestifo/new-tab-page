@@ -114,7 +114,12 @@ Topics covered:
 
 ## AppleScript
 
+* [Apple Official Scripting Guide](https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/index.html#//apple_ref/doc/uid/TP40016239-CH56-SW1)
 * [GetNameAndTitleOfActiveWindow.scpt](https://gist.github.com/timpulver/4753750)
+* [Strategy for UI Scripting](http://n8henrie.com/2013/03/a-strategy-for-ui-scripting-in-applescript/)
+* [Record UI elements via Automator](https://stackoverflow.com/questions/3542826/applescript-editor-record-doesnt-work/18752770#18752770)
+* [Move a file in Finder with AppleScript](https://stackoverflow.com/questions/14058061/move-a-file-in-finder-with-applescript)
+* [Get Passwords from KeyChain in Shell Scripts](https://scriptingosx.com/2021/04/get-password-from-keychain-in-shell-scripts/)
 
 ## Design
 
@@ -122,8 +127,13 @@ Topics covered:
 * [Apple Design Resources](https://developer.apple.com/design/resources/)
 * [Sketch](https://www.sketch.com)
 * [Adobe XD](https://www.adobe.com/products/xd.html)
+* [How to Create an .icns macOS App Icon](https://gist.github.com/jamieweavis/b4c394607641e1280d447deed5fc85fc)
+* [How to Use Apple’s App Icon Sketch Template for Xcode](https://medium.com/kennethlng/how-to-use-apples-app-icon-sketch-template-for-xcode-2a4458c75ac1)
+* [Flaticon Free Icon Library](https://www.flaticon.com)
+* [Design and implement macOS document icons](https://developer.apple.com/news/?id=5i6jlf4d)
 
 ## Other / Various
 
 * [NASA - The Sound of Black Holes](https://www.nasa.gov/mission_pages/chandra/news/new-nasa-black-hole-sonifications-with-a-remix.html)
 * [Desiderata](https://desiderata.com/desiderata.html)
+* [StressLess Home Funiture](https://www.stressless.com/)
