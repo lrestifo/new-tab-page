@@ -71,6 +71,12 @@ Topics covered:
 * [OneDrive Sync Admin Reports](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/announcing-public-preview-of-onedrive-sync-admin-reports/ba-p/2303407)
 * [Manage your OneDrive files with Finder on a Mac](https://www.umb.edu/it/admin_systems/onedrive/finder)
 
+### Microsoft Windows 365
+
+* [Microsoft Official Product Page](https://www.microsoft.com/en-us/windows-365/enterprise)
+* [Gartner: Windows 365 Paper](https://www.gartner.com/doc/reprints?id=1-289L5LU5&ct=211129&st=sb)
+* [Gartner: How to Build a Successful Business Case for Desktop Virtualization](https://www.gartner.com/en/documents/3986305)
+
 ## HP TechPulse
 
 * [HP TechPulse Portal](https://www.hpdaas.com/)
