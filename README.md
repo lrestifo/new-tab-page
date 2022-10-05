@@ -27,7 +27,9 @@ Topics covered:
 
 * [Update set use](https://docs.servicenow.com/bundle/rome-application-development/page/build/system-update-sets/concept/update-set-procedures.html)
 
-### ServiceNow Perl Integration
+### ServiceNow Integrations
+
+#### Perl Integration
 
 * [ServiceNow::SOAP Journal](https://servicenowsoap.wordpress.com/category/perl/) &mdash; Blog article
 * [ServiceNow-Perl-API](https://github.com/koukakaijin/ServiceNow-Perl-API) &mdash; github repo
@@ -35,9 +37,14 @@ Topics covered:
 * [SOAP web service official documentation](https://docs.servicenow.com/bundle/sandiego-application-development/page/integrate/inbound-rest/concept/c_RESTAPI.html) &mdash; official documentation
 * [ServiceNow::SOAP on MetaCPAN](https://metacpan.org/pod/ServiceNow::SOAP) &mdash; Perl module
 
-### ServiceNow Saviynt Integration
+#### Saviynt Integration
 
 * [Saviynt for ServiceNow](https://saviynt.com/integrations/servicenow/)
+
+#### JamF Integration
+
+* [Graph Connector for JamF](https://docs.servicenow.com/bundle/sandiego-servicenow-platform/page/product/configuration-management/concept/cmdb-integration-jamf.html)
+* [CMDB Integration](https://marketplace.jamf.com/details/servicenow-cmdb-integration)
 
 ### ServiceNow Hardware Asset Management
 
