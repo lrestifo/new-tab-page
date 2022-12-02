@@ -15,6 +15,7 @@ Topics covered:
 * Performances
 * AppleScript
 * Design
+* Taxes
 * Other / Various
 
 ## ServiceNow
@@ -144,6 +145,10 @@ Topics covered:
 * [How to Use Apple’s App Icon Sketch Template for Xcode](https://medium.com/kennethlng/how-to-use-apples-app-icon-sketch-template-for-xcode-2a4458c75ac1)
 * [Flaticon Free Icon Library](https://www.flaticon.com)
 * [Design and implement macOS document icons](https://developer.apple.com/news/?id=5i6jlf4d)
+
+## Taxes
+
+* [How to find your German tax ID, tax number or VAT number](https://allaboutberlin.com/guides/german-tax-id-steuernummer)
 
 ## Other / Various
 
