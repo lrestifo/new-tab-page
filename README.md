@@ -27,6 +27,12 @@ Topics covered:
 ### ServiceNow Development
 
 * [Update set use](https://docs.servicenow.com/bundle/rome-application-development/page/build/system-update-sets/concept/update-set-procedures.html)
+* [SN Pro Tips Blog - Tim Woodruff](https://snprotips.com)
+
+### ServiceNow Books
+
+* [ServiceNow System Adminitrator from Zero to Hero](https://github.com/PacktPublishing/ServiceNow-System-Administrator-from-Zero-to-Hero)
+* [ServiceNow IT Operations Management](https://github.com/PacktPublishing/ServiceNow-IT-Operations-Management-V-)
 
 ### ServiceNow Integrations
 
