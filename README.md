@@ -23,6 +23,7 @@ Topics covered:
 * [Change Velocity Dashboard](https://accoprod.service-now.com/$pa_dashboard.do?sysparm_dashboard=dfd7ec1149d35010f877ebaecda567c0&sysparm_tab=37d7ec5149d35010f877ebaecda5676e&sysparm_cancelable=true&sysparm_editable=false&sysparm_active_panel=false)
 * [Import MS-Word Document into Knowledge Base Article](https://docs.servicenow.com/bundle/rome-servicenow-platform/page/product/knowledge-management/task/import-word-platform.html)
 * [Widget library](https://docs.servicenow.com/bundle/sandiego-servicenow-platform/page/build/service-portal/concept/widget-showcase.html)
+* [Shortcut for tasks without links](https://www.servicenow.com/community/in-other-news/shortcut-for-tasks-without-links/ba-p/2280686)
 
 ### ServiceNow Development
 
@@ -60,6 +61,8 @@ Topics covered:
 
 ## Microsoft
 
+* [What if my subscription expires](https://learn.microsoft.com/en-us/microsoft-365/commerce/subscriptions/what-if-my-subscription-expires?view=o365-worldwide)
+
 ### Microsoft Excel
 
 * [Create a Map chart in Excel](https://support.microsoft.com/en-us/office/create-a-map-chart-in-excel-f2cfed55-d622-42cd-8ec9-ec8a358b593b)
@@ -90,6 +93,7 @@ Topics covered:
 * [Microsoft Official Product Page](https://www.microsoft.com/en-us/windows-365/enterprise)
 * [Gartner: Windows 365 Paper](https://www.gartner.com/doc/reprints?id=1-289L5LU5&ct=211129&st=sb)
 * [Gartner: How to Build a Successful Business Case for Desktop Virtualization](https://www.gartner.com/en/documents/3986305)
+* [Integrating SAP with Microsoft Office](https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/integrating-sap-with-microsoft-office/ba-p/3675112)
 
 ## HP TechPulse
 
@@ -140,6 +144,8 @@ Topics covered:
 * [Record UI elements via Automator](https://stackoverflow.com/questions/3542826/applescript-editor-record-doesnt-work/18752770#18752770)
 * [Move a file in Finder with AppleScript](https://stackoverflow.com/questions/14058061/move-a-file-in-finder-with-applescript)
 * [Get Passwords from KeyChain in Shell Scripts](https://scriptingosx.com/2021/04/get-password-from-keychain-in-shell-scripts/)
+* [Make a Systemwide Service with AppleScript](https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/MakeaSystem-WideService.html)
+
 
 ## Design
 
