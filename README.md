@@ -15,6 +15,7 @@ Topics covered:
 * Performances
 * AppleScript
 * Design
+* Monitoring Systems
 * Taxes
 * Other / Various
 
@@ -66,6 +67,7 @@ Topics covered:
 ### Microsoft Excel
 
 * [Create a Map chart in Excel](https://support.microsoft.com/en-us/office/create-a-map-chart-in-excel-f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+* [Macros from the Internet will be blocked by default](https://learn.microsoft.com/en-us/deployoffice/security/internet-macros-blocked#how-office-determines-whether-to-run-macros-in-files-from-the-internet)
 
 ### Microsoft Teams
 
@@ -146,7 +148,6 @@ Topics covered:
 * [Get Passwords from KeyChain in Shell Scripts](https://scriptingosx.com/2021/04/get-password-from-keychain-in-shell-scripts/)
 * [Make a Systemwide Service with AppleScript](https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/MakeaSystem-WideService.html)
 
-
 ## Design
 
 * [Apple Icon Design Guide](https://developer.apple.com/design/human-interface-guidelines/foundations/app-icons/)
@@ -157,6 +158,11 @@ Topics covered:
 * [How to Use Apple’s App Icon Sketch Template for Xcode](https://medium.com/kennethlng/how-to-use-apples-app-icon-sketch-template-for-xcode-2a4458c75ac1)
 * [Flaticon Free Icon Library](https://www.flaticon.com)
 * [Design and implement macOS document icons](https://developer.apple.com/news/?id=5i6jlf4d)
+
+## Monitoring Systems
+
+* [Microsoft Office 365 Status](https://msft.it/6011eAYPc)
+* [Apple System Status](https://www.apple.com/de/support/systemstatus/)
 
 ## Taxes
 
