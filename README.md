@@ -57,8 +57,16 @@ Topics covered:
 
 ### ServiceNow Hardware Asset Management
 
+* [ServiceNow Asset Management Best Practices](https://onlineitguru.com/blogger/explain-servicenow-asset-management#:~:text=ServiceNow%20Asset%20Management%20best%20practices%201%20Proper%20inventory,of%20standards%20and%20regulations%20of%20asset%20management%2C%20etc.)
+* [IT Asset Management Official Page](https://docs.servicenow.com/bundle/utah-it-asset-management/page/product/software-asset-management2/concept/it-asset-management.html)
 * [ServiceNow Hardware Asset Management](https://docs.servicenow.com/bundle/sandiego-it-asset-management/page/product/hardware-asset-management/reference/ham-landing-page.html) &mdash; Official documentation
 * [Don't Confuse IT Asset Management and Configuration Management](https://www.provance.com/blog/dont-confuse-it-asset-management-and-configuration-management-ever/) &mdash; Blog article
+* [Asset Management Infographic](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/resource-center/infographic/ham-vs-asset-management-infographic.pdf)
+* [Effective Asset Management](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/success/playbook/effective-asset-management.pdf)
+
+### ServiceNow Knowledge Management
+
+* [Master the Knowledge Management Process](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/bp/master-the-knowledge-management-process.pdf)
 
 ## Microsoft
 
@@ -112,6 +120,9 @@ Topics covered:
 * [FileIcon: CLI to manage icons for files and folders](https://github.com/mklement0/fileicon)
 * [HOWTO: Open .p7m encoded mail attachments from the command line](https://andrea.brancatelli.it/tag/p7m/)
 * [Switch audio device from the command line](https://github.com/deweller/switchaudio-osx)
+* [iMazing Profile Editor](https://imazing.com/profile-editor)
+* [Allow users to run as Local Admins](https://9to5mac.com/2022/08/19/allow-users-to-run-as-local-macos-admins/)
+* [Should you setup users as Admins?](https://blog.kandji.io/the-great-debate-should-you-set-up-users-as-admin-or-standard)
 
 ## Markdown
 
